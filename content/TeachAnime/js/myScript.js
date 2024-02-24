@@ -178,6 +178,7 @@ function log(x){console.log(x);}
 					.append(generateAList('阿特伍機','atwoodMachine2024/atwoodMachine2024.html', 'atwoodMachine2024',['html5']))
 					.append(generateAList('輸送帶與摩擦力','conveyorFriction2023/conveyorFriction2023.html', 'conveyorFriction2023',['html5']))
 					.append(generateAList('過彎摔車','bikeAndDriver2023/bikeAndDriver2023.html', 'bikeAndDriver2023',['html5']))
+					.append(generateAList('斜拋空中爆','projectileAndExplode2024/projectileAndExplode2024.html', 'projectileAndExplode2024',['html5']))
 					.append(generateAList('二物彈簧SHM','shmM1M2/shmM1M2.html', 'shmM1M2',['flash']))
 					.append(generateAList('錐動擺的角動量','angularMomentumOfCircle2023/angularMomentumOfCircle2023.html', 'angularMomentumOfCircle2023',['html5']))
 					.append(generateAList('行星軌道N次方','orbitalGravityN2024/orbitalGravityN2024.html', 'orbitalGravityN2024',['html5']))
