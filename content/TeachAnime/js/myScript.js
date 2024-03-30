@@ -195,6 +195,7 @@ function log(x){console.log(x);}
 				//	.append(generateAList('科氏力2009','CoriolisForce/CoriolisForce.html', 'CoriolisForce',['flash']))
 				//	.append(generateAList('科氏力2013','CoriolisForce2013/CoriolisForce2013.html', 'CoriolisForce2013',['flash']))
 					.append(generateAList('離心力與柯氏力','centrifugalForce2022/centrifugalForce2022.html', 'centrifugalForce2022',['html5']))
+					.append(generateAList('離心力與柯氏力','rotatingY2024/rotatingY2024.html', 'rotatingY2024',['html5']))
 					.append(generateAList('直線碰撞','linearCollision2023/linearCollision2023.html', 'linearCollision2023',['html5']))
 					.append(generateAList('平面彈性碰撞','collision2D2023/collision2D2023.html', 'collision2D2023',['html5']))
 					.append('<li class="line">--- 彈簧與木塊 ---</li>')
